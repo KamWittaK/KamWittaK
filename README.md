@@ -2,7 +2,7 @@
 🌱 Learning: Currently enhancing my skills in **C#**, **JavaScript**, and **Machine Learning**<br>
 📫 Contact: You can reach me at **Kameron.R.Fournillier@gmail.com**<br>
 👨‍💻 My Work: Check out all of my projects on [GitHub](https://github.com/orgs/KamWittaK-Portfolio/repositories)<br>
-📄 Resume: [View my resume](https://1drv.ms/b/c/4b0a38b1997b54c0/Ebq_DaaxMp9ErmfyjkJKnMEBGTx5_Nc8vqnl8-MoyxdDGg?e=RfhJ6X)
+📄 Resume: [View my resume](https://1drv.ms/b/c/4b0a38b1997b54c0/EUgqx_m7IvZMlkmzxLsyxbgBALpthNmXeur6KWiQLdW1Dg?e=QovOca)
 
 
 ## 🌐 Socials:
