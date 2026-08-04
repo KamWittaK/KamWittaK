@@ -24,7 +24,7 @@
 
 
 # 📊 GitHub Stats:
-[![Kameron's GitHub stats](https://github-stats-extended.vercel.app/api?username=kamwittak&theme=radical)](https://github.com/stats-organization/github-stats-extended)
+[![Kameron's GitHub stats](https://github-stats-extended.vercel.app/api/?username=kamwittak&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Kameron%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github.com/stats-organization/github-stats-extended)
 
 
 ## 💰 You can help me by Donating
